@@ -1,5 +1,5 @@
 {
-  "name": "test-pug",
+  "name": "pug-in-react-ts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
